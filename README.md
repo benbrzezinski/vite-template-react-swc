@@ -1,1 +1,1 @@
-# vite-template-react-swc
+# Project created based on the vite-template-react-swc
